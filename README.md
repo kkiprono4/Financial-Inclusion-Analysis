@@ -1,6 +1,6 @@
 # Financial-Inclusion-Analysis
 
-#Description
+# Description
 
 
 To solve the challenge of financial inclusion, in several regions across east Africa, I have been assigned to figure out how we can predict which individuals are most likely to have or use a bank account. The solution will help provide an indication of the state of financial inclusion in Kenya, Rwanda, Tanzania, and Uganda, while providing insights into some of the key demographic factors that might drive individuals’ financial outcomes. This project adopts multiple techniques including uni-variate analysis, bi-variate analysis, and multivariate analysis to identify different relationship patterns in the data set.
